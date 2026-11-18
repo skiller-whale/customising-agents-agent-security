@@ -1,0 +1,5 @@
+# localhost:3000/login
+#   skip-sso
+# or go localhost:3000/login?manual (if already clicked skip-sso)
+user=user
+password=password

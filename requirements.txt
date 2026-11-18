@@ -1,0 +1,2 @@
+pydantic-ai-slim[bedrock]==2.67.0
+pydantic-ai-harness==0.67.0

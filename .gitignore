@@ -1,0 +1,5 @@
+/attendance_id
+/.chat_history/
+/.vscode/settings.json
+__pycache__/
+*.log
